@@ -1,3 +1,3 @@
 # EDI
 EDI class materials
-https://daniel-s-hu.github.io/EDI/
+Website: https://daniel-s-hu.github.io/EDI/
