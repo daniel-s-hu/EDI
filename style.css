@@ -11,11 +11,11 @@ canvas {
 }
 
 img {
-  border: 5px solid #ff0000;
+  border: 5px solid #000;
 }
 
 h1{
-  color: black;
+  color: red;
      position: absolute;
      left: 50%;
      transform: translateX(-50%) translateY(-50%);
